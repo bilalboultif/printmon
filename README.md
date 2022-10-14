@@ -1,2 +1,0 @@
-# printmon
-LPN printer

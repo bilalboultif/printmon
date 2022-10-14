@@ -1,0 +1,151 @@
+body {
+	/* background-image: url(https://www.mc-2.com/wp-content/uploads/2017/08/Zebra_CBC_2016_02-1920.jpg); */
+}
+
+.printmon_tools
+{
+	
+	text-align: center;
+margin-top: 0px;
+
+}
+
+
+
+
+.toolselected
+{
+	border-bottom: 2px solid primary-color;
+    border-top: 2px solid primary-color;
+    color: primary-color;
+    font-family: primary-font;
+    font-size: 4.75rem;
+    text-shadow: 1px 1px 1px rgb(205 205 255);
+	margin-bottom: 10px;
+}
+
+.toolselected:hover
+{
+	border-bottom: 2px solid primary-color;
+    border-top: 2px solid primary-color;
+    color: #f8f5f5;
+    font-family: primary-font;
+    font-size: 4.75rem;
+    text-shadow: 2px 2px 2px rgb(84, 50, 205);
+	margin-bottom: 10px;
+}
+
+
+.titletext{
+font-weight: bold;
+
+padding: 25px;
+color: lavenderblush;
+text-shadow: 2px 2px 2px rgb(73, 36, 133);
+
+}
+
+
+.title {
+margin-top: -90px;
+margin-left: auto;
+margin-right: auto;
+border-width: 1px;
+border-style: solid;
+border-color: #999999;
+
+border-radius: 10px;
+padding: 10px;
+font-weight: normal;
+font-family: Arial,Helvetica,sans-serif;
+display: table;
+width: 800px;
+height: 500px;
+}
+
+.title:hover {
+margin-top: -90px;
+margin-left: auto;
+margin-right: auto;
+border-width: 1px;
+border-style: solid;
+border-color: #6e3030;
+background-color: lightcoral;
+border-radius: 10px;
+padding: 10px;
+font-weight: normal;
+font-family: Arial,Helvetica,sans-serif;
+display: table;
+width: 800px;
+height: 500px;
+}
+
+.titletext {
+font-family: 'Fredericka the Great', cursive;
+font-size: 20px;
+box-shadow: 5px 5px 15px rgb(0, 0, 0);
+background-image: url(https://mcdn.wallpapersafari.com/medium/62/26/3yxCg9.jpeg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.apmbutton {
+
+color: rgb(240, 230, 230);
+    
+    border-radius: 10px 50px;
+    text-align: center;
+    
+  
+    box-shadow: 5px 5px 1px rgb(255 255 255);
+    text-decoration: unset;
+  
+    cursor: pointer;
+    padding-left: 50px;
+	padding-right: 50px;
+    margin-bottom: 10px;
+}
+
+#bilal {
+	color: rgb(240, 230, 230);
+    width: 20%;
+    height: 40px;
+    border-radius: 10px 50px;
+    text-align: center;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 20px;
+    background: content-box radial-gradient(rgba(64, 38, 126, 0.226), rgba(193, 183, 212, 0.425));
+    box-shadow: 5px 5px 1px rgb(255 255 255);
+    text-decoration: unset;
+   
+    cursor: pointer;
+    
+    margin-bottom: 10px;
+}
+.apmbutton:hover
+{
+	color: rgb(255, 255, 255);
+    font-size: 20px;
+	padding-left: 80px;
+	padding-right: 80px;
+    align-items: center;
+    opacity: 1
+}
+#bilal:hover
+{
+	color: rgb(255, 255, 255);
+    font-size: 20px;
+width: 30%;
+    align-items: center;
+    opacity: 1
+}
+
+input[type=text] {
+background: #f8f5f5;
+border-radius: 3px;
+border:solid 1px #e21515;
+height: 20px;
+padding-left:10px;
+width: 200px;
+box-shadow: 2px 2px 2px inset;
+}
